@@ -1,0 +1,5 @@
+what is django ?
+-> django is web based python framework.which follow MVT pattern.
+
+what is framework ?
+-> framework is a standard format of code which is used to create web application.
