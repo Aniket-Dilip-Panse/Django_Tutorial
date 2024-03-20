@@ -26,3 +26,6 @@ View is the bridge between user and database.
 FLOW CHART OF MVT EXPLAINED ?
 ->user open the website url it calls the view 
 ->view first collect the data and then pass the data to Template.
+
+creating new project
+-> django-admin startproject name_of_project
