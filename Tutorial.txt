@@ -13,3 +13,12 @@ prerequisites for django
 1.core python
 2.HTML CSS
 3.javascript
+
+what is MVT pattern ?
+-> MVT pattern is used to create web application.
+-> M = Model is going to act as the interface of your data. Database related work is done here.
+
+-> V = View is the user interface passing the url to view Template. view are function which are called by url.view is the center portion of MVT. Template = user interface Model = database.
+View is the bridge between user and database.
+
+-> T = Template are the html code. Template is used to pass data to view.
