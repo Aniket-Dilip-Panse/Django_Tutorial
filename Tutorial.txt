@@ -9,3 +9,7 @@ what is framework ?
 -> we don't have to write code from scratch to make a web application.
 ->framework is a set of rules and code which is used to create web application.
 
+prerequisites for django
+1.core python
+2.HTML CSS
+3.javascript
