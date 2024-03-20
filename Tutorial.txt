@@ -22,3 +22,7 @@ what is MVT pattern ?
 View is the bridge between user and database.
 
 -> T = Template are the html code. Template is used to pass data to view.
+
+FLOW CHART OF MVT EXPLAINED ?
+->user open the website url it calls the view 
+->view first collect the data and then pass the data to Template.
