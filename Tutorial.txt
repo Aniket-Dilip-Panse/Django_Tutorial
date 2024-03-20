@@ -3,3 +3,5 @@ what is django ?
 
 what is framework ?
 -> framework is a standard format of code which is used to create web application.
+-> we don't have to write code from scratch to make a web application.
+->framework is a set of rules and code which is used to create web application.
