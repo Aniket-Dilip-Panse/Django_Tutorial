@@ -32,3 +32,5 @@ creating new project
 
 To run the project there is a command
 -> python manage.py runserver
+-> to run the project in debug mode
+-> python manage.py runserver --debug
