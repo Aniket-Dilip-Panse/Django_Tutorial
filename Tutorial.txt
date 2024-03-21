@@ -29,3 +29,6 @@ FLOW CHART OF MVT EXPLAINED ?
 
 creating new project
 -> django-admin startproject name_of_project
+
+To run the project there is a command
+-> python manage.py runserver
