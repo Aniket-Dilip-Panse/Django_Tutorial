@@ -34,3 +34,5 @@ To run the project there is a command
 -> python manage.py runserver
 -> to run the project in debug mode
 -> python manage.py runserver --debug
+-> to run the project in debug mode with port
+-> python manage.py runserver --debug --port 8000
